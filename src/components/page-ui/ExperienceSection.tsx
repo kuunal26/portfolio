@@ -60,11 +60,6 @@ const experience = [
           Developed and implemented high-performance, scalable applications
           using technologies like Next.js, Express.js, Flutter, and MySQL.
         </li>
-        <li>
-          Transitioned into a mentorship role, where I guided high school
-          students in developing their soft skills and provided guidance in
-          career planning and decision-making.
-        </li>
         <li>Volunteered in web development team creating info website</li>
       </ul>
     ),
@@ -74,18 +69,14 @@ const experience = [
     title: "Pivalve",
     description: (
       <ul className="list-disc">
-        <li>Developed website for the Pivalve</li>
+        <li>Developed a responsive website for the Pivalve</li>
         <li>
-          Supported backend development using PHP and MySQL, ensuring smooth
-          data management.
-        </li>
-        <li>
-          Provided mentorship to two IT college students, enhancing their
-          practical software engineering skills.
+         Designed and implemented a modern, responsive frontend for Pi Valves’ corporate website (https://pivalves.com
+) using React, Tailwind CSS, and JavaScript, ensuring cross-browser compatibility and improved load performance.
         </li>
       </ul>
     ),
-    badge: "Junior Web Engineer",
+    badge: "Frontend Engineer",
   },
   {
     title: "",
