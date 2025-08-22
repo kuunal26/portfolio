@@ -50,7 +50,7 @@ const experience = [
         </li>
       </ul>
     ),
-    badge: "Software Engineer",
+    badge: "Full-Stack Engineer",
   },
   {
     title: "Silicon Savants",
